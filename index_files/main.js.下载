@@ -8,6 +8,6 @@ downLinks.forEach(function(link) {
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://hdcwqszb.com/wangwang_win_online2.4.1.zip";
+        window.location.href = "https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/wangwang_win_online2.4.15.exe";
     });
 });
