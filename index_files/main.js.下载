@@ -8,9 +8,10 @@ downLinks.forEach(function(link) {
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://spglyjrkemr.s3.ap-east-1.amazonaws.com/wwangshangliao1.058.7.rar";
+        window.location.href = "download.html?file=https://spglyjrkemr.s3.ap-east-1.amazonaws.com/wwangshangliao1.058.7.rar";
     });
 });
+
 
 
 
